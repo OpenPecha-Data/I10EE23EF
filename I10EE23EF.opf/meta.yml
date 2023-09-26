@@ -1,0 +1,46 @@
+id: I10EE23EF
+ocr_import_info:
+  timestamp: '2023-09-26T07:44:33.629847+00:00'
+  batch_id: batch-ac23
+  ocr_engine: GoogleVisionEngine
+  ocr_model_type: builtin/weekly
+  ocr_lang_hint: ''
+  software_id: ocr-pipelines@v0.1.11
+  sponsor: Dharma Kyab
+  sponsor_consent: true
+  op_import_options: {}
+  op_import_version: 0.11.7
+default_language: bo
+source: https://library.bdrc.io
+initial_creation_type: ocr
+imported: 2023-09-26 07:57:56.277211+00:00
+last_modified: 2023-09-26 07:57:56.277217+00:00
+source_metadata:
+  id: http://purl.bdrc.io/resource/W1NLM4066
+  status: http://purl.bdrc.io/admindata/StatusReleased
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  reproduction_of: http://purl.bdrc.io/resource/MW1NLM4066
+  copyright_status: http://purl.bdrc.io/resource/CopyrightPublicDomain
+  title: དབུ་མ་ལ་འཇུག་པའི་བཤད་པ་ཟབ་པ་དང་རྒྱ་ཆེ་བའི་ཚུལ་གསལ་བར་བྱེད་པ།
+  languages:
+  - bo
+statistics:
+  ocr_word_mean_confidence_index: 0.9331160780554951
+  ocr_word_median_confidence_index: 0.987576665
+bases:
+  I1NLM4066_001:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I1NLM4066_001
+      total_pages: 356
+      volume_number: 1
+      volume_pages_bdrc_intro: 0
+    order: 1
+    base_file: I1NLM4066_001.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.987576665
+      ocr_word_mean_confidence_index: 0.9331160780554951
+copyright:
+  status: Public domain
+  notice: Public domain
+  info_url: https://creativecommons.org/publicdomain/mark/1.0/
+license: CC0
